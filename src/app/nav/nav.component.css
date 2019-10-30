@@ -1,0 +1,12 @@
+nav{
+    width: 20%;
+    height: 550px;
+}
+.content{
+    float: right;
+    width: 80%;
+    margin-top: -550px;
+}
+li{
+    padding: 10px;
+}
